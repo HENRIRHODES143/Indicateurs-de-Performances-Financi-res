@@ -35,7 +35,7 @@ Ce projet propose une analyse complète des indicateurs financiers clés d'une e
 **Structure du dépôt**
 
 * Fichiers CSV sources + capture d’écran du dashboard
-* Indicateurs_performance_financiere.pbix` → Fichier Power BI principal
+* Indicateurs_performance_financiere.pbix
 
 **Auteur**
 
